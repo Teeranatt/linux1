@@ -1,4 +1,4 @@
-ลำดับ |คำสั่งCommand in Linux|คำอธิบายคำสั่ง|
+ลำดับ |คำสั่ง Command in Linux|คำอธิบายคำสั่ง|
 :-----:|:-----------------:|--------------------|
  1 | ls | เป็นคำสั่งที่ใช้สำหรับแสดงแฟ้มข้อมูลมากจากคำว่า list รูปแบบคำสั่ง ls [option] [file] option ได้ตัวอย่างการใช้งาน ls -l ,ls -al,ls -F adduser คำสั่งเพิ่ม User ให้กับระบบ Unix,Linux รูปแบบการใช้งาน adduser -g (group) -d (Directory) (User) ตัวอย่าง adduser -g root -d /home/user1 user สร้าง User ชื่อ Login คือ user1 เป็นสมาชิกในกลุ่ม root |
  2 | tree | แสดงไฟล์และโฟลเดอร์ในรูปแบบของต้นไม้ |
